@@ -1,0 +1,8 @@
+C:\Projects\Custom\SOLIDLogger\SOLIDLoggerConsole\obj\Debug\SOLIDLoggerConsole.csprojResolveAssemblyReference.cache
+C:\Projects\Custom\SOLIDLogger\SOLIDLoggerConsole\bin\Debug\SOLIDLoggerConsole.exe.config
+C:\Projects\Custom\SOLIDLogger\SOLIDLoggerConsole\bin\Debug\SOLIDLoggerConsole.exe
+C:\Projects\Custom\SOLIDLogger\SOLIDLoggerConsole\bin\Debug\SOLIDLoggerConsole.pdb
+C:\Projects\Custom\SOLIDLogger\SOLIDLoggerConsole\bin\Debug\SOLIDLogger.dll
+C:\Projects\Custom\SOLIDLogger\SOLIDLoggerConsole\bin\Debug\SOLIDLogger.pdb
+C:\Projects\Custom\SOLIDLogger\SOLIDLoggerConsole\obj\Debug\SOLIDLoggerConsole.exe
+C:\Projects\Custom\SOLIDLogger\SOLIDLoggerConsole\obj\Debug\SOLIDLoggerConsole.pdb
